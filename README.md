@@ -1,48 +1,64 @@
-# Ilojo Bar
+# Ilojo Bar Virtual Monument
 
-![Ilojo Bar](https://github.com/cmda-minor-web-cases/ilojo-bar/blob/main/assets/ilojo-bar.jpg?raw=true)
+![Ilojo Bar](./public/assets/ilojobar-sign.png) 
 
-## Inhoudsopgave
-  * [Beschrijving](#beschrijving)
-  * [Opdrachtgever](#opdrachtgever)
-  * [Design challenge](#design-challege)
-  * [Data](#data)
-  * [Planning](#planning)
-  * [Licentie](#licentie)
+## Table of contents 🔢
+  * [Description](#description-👩🏻‍💻)
+  * [The Client](#the-client-🤝🏻)
+  * [How does it work](#how-does-it-work-❔)
+  * [Design challenge](#design-challenge-🖌)
+  * [Moscow](#moscow)
+  * [Licence](#licence-⚠)
 
-## Beschrijving
-Ilojo Bar of Casa do Fernandez was een beeldbepalend nationaal monument in Lagos, Nigeria, dat in 2016 illegaal werd gesloopt. Ilojo Bar werd ontworpen en gebouwd door Afrikanen die in de negentiende eeuw terugkeerden uit slavernij in Brazilië. Legacy wil graag een Engelstalige website die een soort virtueel monument wordt van dit bijzondere gebouw en de vele verhalen er omheen.
+## Description 👩🏻‍💻
+Ilojo Bar or Casa do Fernandez was an iconic national monument in Lagos, Nigeria, which was illegally demolished in 2016. Because it got demolished Lagos lost a special building. This web app gives the people of Lagos the opportunity to virtually "visit" the monument and read its stories. 
 
-![Ilojo Bar in 1946](https://github.com/cmda-minor-web-cases/ilojo-bar/blob/main/assets/ilojo-bar-1946.jpg?raw=true)
+## The Client 🤝🏻
+
+Legacy has been formed with the object of gathering together committed men and women, Nigerians and non-Nigerians, united for the common cause of promoting and reserving the character and appearance of historic monuments and the environment and cultural entities in all parts of Nigeria. The aim of Legacy is to identify historical buildings, monuments and areas of the built environment which would be singled out for their contribution to the evolution, history and culture of Nigeria. 
+We were given this project by Femke van Zeijl, who works at the Historical and Environmental Group of Nigeria, Lagacy. She wrote her thesis on the Ilojo Bar which is one of the historical buidlings in Lagos, and she wanted to bring it back to life.
+
+![Legacy](./public/assets/legacy.png) 
+
+## How does it work ❔
+
+Once you have opened the website, you are shown the beautiful Ilojo Building together with the environment. The sign welcomes you and it really feels as if you are there. Once you have clicked on the Ilojo Bar Building, you are being shown the inside of the building, the bar. While you are at the bar, the best person to tell you stories is ofcourse the barman. Take a look at the menu and let the barman indulge you in it's wonderful stories about the Ilojo Bar. 
+
+![Welcome](./public/assets/welcome.jpg) 
 
 
-## Opdrachtgever
-Legacy | The Historical and Environmental Group of Nigeria, in de persoon van Femke van Zeijl, hoofd onderzoek.
+## Design challenge 🖌
+Design and develop an interactive virtual monument for Ilojo Bar.
+Attractive and functional for residents of a country with low bandwidth, where many only use the internet via their mobile phone, while it is also beautiful for desktop.
 
-## Design challenge
-Ontwerp en ontwikkel een interactief, virtueel monument voor Ilojo Bar.
-Aantrekkelijk én functioneel voor inwoners van een land met lage bandbreedte, waar velen alleen via hun mobiel het internet gebruiken, terwijl het ook voor desktop mooi is.
+## Moscow 🧔🏻
 
+[link to our Project Board](https://github.com/users/ppijn/projects/1/views/1)
 
-### User stories
-**1 Verhalen over Ilojo Bar lezen, luisteren en bekijken**  
-Als inwoner van Lagos, Nigeriaan, lid van de Nigeriaanse diaspora of geïnteresseerde wereldburger, wil ik online verhalen over Ilojo Bar kunnen lezen, luisteren en zien, zodat ik meer te weten kan komen over de betekenis van het gebouw voor de miljoenenstad Lagos en van de kosmopolitsche geschiedenis ervan, die van Spanje tot Brazilië tot Nigeria leidt.
+### Must have
 
-**2 Verhalen over Ilojo Bar toevoegen**  
-Als kunstenaar/bezoeker wil ik een verhaal over Ilojo Bar kunnen toevoegen aan de website, zodat ik de betekenis van het gebouw kan uitdragen en aanvullen.
- 
-**3 Ilojo Bar beleven**   
-Als inwoner van Lagos, Nigeriaan, lid van de diaspora of geïnteresseerde wereldburger wil ik een virtuele indruk van het gebouw kunnen krijgen, zodat ik kan zien hoe het ooit was. Zo wordt het een virtueel monument voor een verdwenen stuk Nigeriaans erfgoed.
+* 3d Model ✅
+* Bar man that tells you the stories ✅
+* Api for the Ilojo Bar ✅
+* The stories visually designed ✅
 
-## Data
-Relevante data is via een API te ontsluiten en in een CMS te beheren.
+### Should Have
 
-## Planning
-In de eerste week van de meesterproef is een briefing met de opdrachtgever en begeleiders. Het eerste gesprek met de opdrachtgever is gepland op **maandag 23 mei om 14 uur Nederlandse tijd via ZOOM.**  Contactgevens van Femke van Zeijl kunnen via Joost Faber worden opgevraagd. Wekelijks wordt aan de opdrachtgever een prototype gedemonstreerd en de volgende stappen besproken. Tussentijds kunnen vragen gesteld worden.
+* Fallback versions of the website ✅
+* Scaled down images so the website is faster ✅
 
-![Ilojo Bar in 1946](https://github.com/cmda-minor-web-cases/ilojo-bar/blob/main/assets/ilojo-bar-2015.jpg?raw=true)
+### Could Have
 
-## Licentie
+* Adding your own stories of the ilojo bar
+* Zoom in animation transition to the next page
+* More responsiveness and Desktop version
+
+### Want to have
+
+* AR function to see the building in RealLife scale
+* More functionalities and nice extras
+
+## Licence ⚠
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
